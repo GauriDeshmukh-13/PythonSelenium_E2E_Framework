@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "userEmail": "rahulshettyacademy",
+      "userPwd": "learning",
+      "Product": "Blackberry",
+      "Delivery_Address": "India"
+    },
+    {
+      "userEmail": "rahulshettyacademy",
+      "userPwd": "learning",
+      "Product": "iphone X",
+      "Delivery_Address": "United States of America"
+    }
+  ]
+}
